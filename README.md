@@ -1,2 +1,2 @@
 # Bimbingan-Akademik-Dekstop
-Aplikasi Bimbingan Akademik Desktop Java 
+Aplikasi Bimbingan Akademik Desktop Java Native MVC
